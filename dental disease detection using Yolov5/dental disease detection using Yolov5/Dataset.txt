@@ -1,0 +1,6 @@
+I am attaching the url of the dataset which I have used.
+https://universe.roboflow.com/ds/EANQFj9l2d?key=t885wAcbq1
+Oral-diseases-training  - v1 dental_diseases_dataset2
+==============================
+
+This dataset was exported via roboflow.ai

@@ -1,0 +1,6 @@
+train: ../datasets/dental_disease/images/train
+val: ../datasets/dental_disease/images/valid
+test: ../datasets/dental_disease/images/test
+
+nc: 5
+names: ['Endo', 'Filling', 'Implant', 'Pulp', 'Restoration']
